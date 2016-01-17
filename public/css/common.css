@@ -1,0 +1,20 @@
+/* common.css  */
+
+
+html body {
+	font-family: "Microsoft YaHei","PingFang SC","Helvetica Neue","Helvetica","STHeitiSC-Light","Arial",sans-serif;
+	font-size:13px;
+	color:#000;
+	background-color:#f7f7f7;
+	line-height:1.5em;
+	min-width:300px;
+	padding-top: 60px;
+	overflow-x: hidden;
+	-webkit-font-smoothing:antialiased
+}
+
+#clickSelect {
+	position: absolute;
+	left: 160px;
+	top: 2px;
+}
