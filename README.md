@@ -1,2 +1,1 @@
-
-点击button，select下拉显示。
+# Click the button, select the drop-down display.
